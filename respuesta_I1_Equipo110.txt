@@ -10,3 +10,14 @@ b-¿Si ALFA agrega un archivo los demás integrantes lo ven?
 
 Si todos podemos verlos
 
+c-¿Si BETA agrega un archivo los demás integrantes lo ven?
+
+Si ven lo que hace BETA(Nahuel A.B)
+
+d-¿De qué forma se comunicaron ustedes?
+
+Usando Discord 
+
+e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
+
+Dejando comenterarios en forma de archivos txt
